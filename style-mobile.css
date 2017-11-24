@@ -57,7 +57,7 @@ body {
 }
 
 canvas {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 255);
 }
 
 a:link, a:visited {
